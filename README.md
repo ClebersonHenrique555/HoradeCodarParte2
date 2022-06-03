@@ -1,4 +1,3 @@
 # HoradeCodarParte2
 
-Lembrete
-Terminar a 23.
+Lista de Exercicios em Java - Proa
